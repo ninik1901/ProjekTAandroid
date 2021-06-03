@@ -1,0 +1,2 @@
+rootProject.name='ProjekTA'
+include ':app'
